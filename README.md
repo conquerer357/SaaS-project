@@ -17,7 +17,7 @@ The analysis identifies the root causes of an accelerating churn crisis, quantif
 
 ## Repository Structure
 
-**data/**
+**Data/**
 - churn_monthly_trends.csv
 - monthly_mrr.csv
 - churn_by_tenure.csv
@@ -36,7 +36,7 @@ The analysis identifies the root causes of an accelerating churn crisis, quantif
 - ravenstack_plan_changes.csv
 - ravenstack_churn_events.csv_
 
-**tableau/**
+**Tableau/**
 - SaaS_project_visualization.twb
 
 ---
