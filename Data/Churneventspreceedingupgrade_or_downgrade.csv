@@ -1,0 +1,5 @@
+"precedingupgrade","precedingdowngrade","churnevents"
+False,False,"432"
+True,False,"115"
+False,True,"45"
+True,True,"8"

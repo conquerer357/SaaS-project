@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5433,
+            "driver": "PostgreSQL",
+            "name": "akv",
+            "group": "AKV",
+            "database": "akv_saas",
+            "username": "Akv",
+            "password": "akv_2002"
+        }
+    ]
+}
