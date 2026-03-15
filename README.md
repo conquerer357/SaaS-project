@@ -28,6 +28,24 @@ The analysis identifies the root causes of an accelerating churn crisis, quantif
 - Churneventspreceedingupgrade_or_downgrade.csv
 - churn_status_by_feature.csv
 
+**Analysis/**
+- churn account by time frame and pct of churn.sql
+- churn feature analysis.sql
+- churn preceding upgrade or downgrade analysis.sql
+- churn time analysis.sql
+- churned account by plan tier and country.sql
+- churned account by time frame.sql
+- Churned accounts by reason.sql
+- churned count by plan tier and industry.sql
+- MRR lost analysis.sql
+
+**Data_cleaning code/**
+- churn_events_cleaning.ipynb
+- feature_usage_cleaning.ipynb
+- Initial.ipynb
+- subscriptions_cleaning.ipynb
+- support_tickets_cleaning.ipynb
+
 **Raw data/**
 - ravenstack_accounts.csv
 - ravenstack_subscriptions.csv
@@ -38,6 +56,9 @@ The analysis identifies the root causes of an accelerating churn crisis, quantif
 
 **tableau/**
 - SaaS_project_visualization.twb
+
+**.vscode/**
+- settings.json
 
 ---
 
