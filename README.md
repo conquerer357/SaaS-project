@@ -9,7 +9,7 @@
 
 ## Project Overview
 
-End-to-end churn analysis for a SaaS business covering 477 churned accounts and $1.14M in lost MRR across 24 months. Raw data was sourced from Kaggle, cleaned in Python, loaded into PostgreSQL, queried using SQL in pgAdmin, exported as CSVs, and visualised in Tableau across three purpose-built dashboards.
+End-to-end churn analysis for a SaaS business covering 477 churned accounts and $1.17M in lost MRR across 24 months. Raw data was sourced from Kaggle, cleaned in Python, loaded into PostgreSQL, queried using SQL in pgAdmin, exported as CSVs, and visualised in Tableau across three purpose-built dashboards.
 
 The analysis identifies the root causes of an accelerating churn crisis, quantifies the financial impact, and produces six prioritised business recommendations.
 
@@ -17,7 +17,7 @@ The analysis identifies the root causes of an accelerating churn crisis, quantif
 
 ## Repository Structure
 
-**data/**
+**Data/**
 - churn_monthly_trends.csv
 - monthly_mrr.csv
 - churn_by_tenure.csv
@@ -54,7 +54,7 @@ The analysis identifies the root causes of an accelerating churn crisis, quantif
 - ravenstack_plan_changes.csv
 - ravenstack_churn_events.csv_
 
-**tableau/**
+**Tableau/**
 - SaaS_project_visualization.twb
 
 **.vscode/**
