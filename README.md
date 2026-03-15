@@ -130,7 +130,7 @@ Every formatting decision in this project followed one rule: does this element h
 
 Gradients, drop shadows, decorative icons, heavy colour palettes, and dense annotation boxes all make a dashboard look like effort was spent. They rarely make the data clearer. In most cases they slow the viewer down because the eye has to process visual noise before it reaches the actual numbers.
 
-The design choices made here — white backgrounds, a limited two-colour scheme (red for churn, green for retained), minimal gridlines, left-aligned text, and generous spacing — are the same choices used by teams at companies like Airbnb, Stripe, and Google in their internal analytics tooling. Simplicity is not a shortcut. It is the harder and more deliberate option, because every element that remains has to earn its place.
+The design choices made here — white backgrounds, a minimalist colour scheme, minimal gridlines, left-aligned text, and generous spacing — are the same choices used by teams at companies like Airbnb, Stripe, and Google in their internal analytics tooling. Simplicity is not a shortcut. It is the harder and more deliberate option, because every element that remains has to earn its place.
 
 A second practical reason: simple dashboards are easier to maintain, easier to hand off to a colleague, and easier to update when the underlying data changes. A cluttered dashboard built for visual impression becomes a liability the moment someone else has to edit it.
 
